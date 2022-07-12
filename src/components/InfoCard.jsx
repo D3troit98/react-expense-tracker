@@ -7,7 +7,7 @@ const InfoCard = () => {
      Add {isIncome ? 'Income ' : 'Expense'} 
      for {isIncome ? '₦100 ' : '₦150 '}  
      in category {isIncome ? 'Business ' : 'House '}   
-     for  {isIncome ? 'Monday ' : 'Teusady '}   
+     for  {isIncome ? 'Monday ' : 'Tuesday '}   
      </div>
   )
 }

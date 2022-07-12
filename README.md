@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with ![voice speechly](https://github.com/D3troit98/react-expense-tracker/blob/018290b15e8851b967aca522280144ab95bd963c/src/assets/Screenshot%20(70).png)
 ## Available Scripts
 
 In the project directory, you can run:
